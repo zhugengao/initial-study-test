@@ -1,7 +1,2 @@
 Hello World!
-<<<<<<< HEAD
 android
-=======
-android
-
->>>>>>> master
